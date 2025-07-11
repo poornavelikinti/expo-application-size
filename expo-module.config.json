@@ -1,0 +1,15 @@
+{
+  "platforms": [
+    "android"
+  ],
+  "apple": {
+    "modules": [
+      "AppSizeModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.appsize.AppSizeModule"
+    ]
+  }
+}
