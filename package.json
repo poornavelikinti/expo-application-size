@@ -21,10 +21,18 @@
     "expo-application-size",
     "AppSize"
   ],
+  "repository": "https://github.com/poornavelikinti/expo-application-size",
+  "bugs": {
+    "url": "https://github.com/poornavelikinti/expo-application-size/issues"
+  },
+  "author": "Poorna <chandrika.velikinti@wmlit.com> (https://github.com/poornavelikinti)",
+  "license": "MIT",
+  "homepage": "https://github.com/poornavelikinti/expo-application-size#readme",
+  "dependencies": {},
   "devDependencies": {
     "@types/react": "~18.3.12",
+    "expo-module-scripts": "^4.0.3",
     "expo": "~52.0.0",
-    "expo-module-scripts": "^4.1.9",
     "react-native": "0.76.0"
   },
   "peerDependencies": {
